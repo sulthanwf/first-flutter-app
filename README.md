@@ -1,4 +1,6 @@
-# i_am_rich
+# I am Rich
+
+This is a mock application of the 2008 iOS app developed by Armin Heinrich.
 
 A new Flutter project.
 
